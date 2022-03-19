@@ -16,4 +16,4 @@ BERT-multilingual 모델로 학습한 결과 87.2%의 성능을 보였으며, Ko
 학습한 모델들이 새로운 리뷰도 잘 분류하는지 확인하기 위해 가장 최근 개봉한 영화인 <기적>과 <보이스>에 실제 작성된 리뷰 20개(긍정적 리뷰 10개, 부정적 리뷰 10개)로 테스트 해본 결과, 두 모델 모두 긍정/부정적 리뷰를 정확하게 분류하는 것을 확인하였다 (표3).
 
 ![image](https://user-images.githubusercontent.com/79245351/159128282-85e1a49f-023c-401b-9506-37c6ed57d2e4.png)
-![image](https://user-images.githubusercontent.com/79245351/159128295-fd9b9734-a4b9-43a3-b5fb-3e7bdcea57eb.png)
+![image](https://user-images.githubusercontent.com/79245351/159128317-45ad7880-7058-4196-8415-31daa6e29aec.png)
