@@ -1,6 +1,6 @@
 # BERT-movie-review-sentiment-classification
 
-1.	데이터셋
+1.	데이터셋 \
 Naver sentiment movie corpus (rating_train.txt, rating_test.txt) 데이터 셋을 사용하였으며, rating_train.txt를 사용하여 모델 생성 후 rating_test.txt를 사용하여 예측 수행하였다. Train data는 15만개, Test data는 5만개의 리뷰로 이루어져 있다.
 
 2.	사용 모델 및 하이퍼 파라미터
