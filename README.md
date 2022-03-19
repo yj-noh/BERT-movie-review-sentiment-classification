@@ -5,12 +5,9 @@ Naver sentiment movie corpus (rating_train.txt, rating_test.txt) 데이터 셋�
 
 2.	사용 모델 및 하이퍼 파라미터
 104개의 언어로 된 말뭉치로 사전 학습한 모델인 BERT-multilingual과 SKTBrain에서 개발한 한국어에 특화된 KoBERT 모델을 사용하여 예측 결과를 비교하였으며, 파라미터는 아래의 표1과 같이 설정하였다. MAX_LEN은 token들의 max length인 142로 설정하였다.
-Parameters	모델1: BERT-multilingual	모델2: KoBERT
-Batch Size	32	32
-MAX_LEN	142	142
-Learning rate	2e-5	5e-5
-epochs	4	4
-표 1 사용 모델 및 모델 학습에 사용한 파라미터
+
+![image](https://user-images.githubusercontent.com/79245351/159127855-4602641d-6b6e-4f1a-b4d4-fe8b926d7394.png)
+
 
 3.	 모델 성능 평가 결과
 모델	정확도
